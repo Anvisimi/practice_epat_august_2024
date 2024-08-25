@@ -8,6 +8,7 @@ class CicdDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Noncompliant - method is empty
 	}
 
 }
